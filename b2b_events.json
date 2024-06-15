@@ -1,0 +1,269 @@
+[
+    {
+        "Event Name": "International D2C Conclave'24",
+        "Start Date": "2024-07-13T08:30:00+05:30",
+        "End Date": "2024-07-13T18:00:00+05:30",
+        "Location": "Radisson Hotel Gurugram Udyog Vihar",
+        "Address": "Nh-8 Udyog Vihar Phase 3 Road #Adjacent to Plot No. 406, Gurugram, HR 122016",
+        "City": "Gurugram",
+        "Region": "HR",
+        "Country": "IN",
+        "Postal Code": "122016",
+        "Description": "The International D2C Conclave 2024 in Mumbai is Co-Organized with Global Startup Summit \u201924 it is an high ticket B2B event with 400+ pax",
+        "Event URL": "https://www.eventbrite.com/e/international-d2c-conclave24-tickets-884043807827",
+        "Organizer": "MOJO STARTUP PVT LTD",
+        "Offers": [
+            {
+                "availabilityEnds": "2024-07-13T03:00:00Z",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/international-d2c-conclave24-tickets-884043807827",
+                "lowPrice": 27.72,
+                "highPrice": 58.83,
+                "@type": "AggregateOffer",
+                "availabilityStarts": "2024-04-15T18:30:00Z",
+                "validFrom": "2024-04-15T18:30:00Z",
+                "availability": "InStock"
+            },
+            {
+                "name": "Sliver Delegates ( Without Lunch )",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/international-d2c-conclave24-tickets-884043807827",
+                "price": 27.72,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Gold Delegate ( With Lunch )",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/international-d2c-conclave24-tickets-884043807827",
+                "price": 58.83,
+                "@type": "Offer",
+                "availability": "InStock"
+            }
+        ],
+        "Pricing": [
+            {
+                "name": "Sliver Delegates ( Without Lunch )",
+                "price": 27.72,
+                "currency": "USD"
+            },
+            {
+                "name": "Gold Delegate ( With Lunch )",
+                "price": 58.83,
+                "currency": "USD"
+            }
+        ]
+    },
+    {
+        "Event Name": "Red Bull BC One Cypher India",
+        "Start Date": "2024-07-06T17:00:00+05:30",
+        "End Date": "2024-07-06T22:00:00+05:30",
+        "Location": "Manpho Convention Centre",
+        "Address": "Veerannapalya Rd, Bengaluru, KA 560024",
+        "City": "Bengaluru",
+        "Region": "KA",
+        "Country": "IN",
+        "Postal Code": "560024",
+        "Description": "Prestigious breaking championship where Top B-Boys and B-Girls compete to be crowned India winner and earn a spot at the World Finals in Rio",
+        "Event URL": "https://www.eventbrite.at/e/red-bull-bc-one-cypher-india-tickets-910465897007",
+        "Organizer": "Red Bull India Pvt. Ltd.",
+        "Offers": [
+            {
+                "availabilityEnds": "2024-07-07T16:30:00Z",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.at/e/red-bull-bc-one-cypher-india-tickets-910465897007",
+                "lowPrice": 0.0,
+                "highPrice": 0.0,
+                "@type": "AggregateOffer",
+                "availabilityStarts": "2024-05-26T18:30:00Z",
+                "validFrom": "2024-05-26T18:30:00Z",
+                "availability": "InStock"
+            },
+            {
+                "name": "General Admission",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.at/e/red-bull-bc-one-cypher-india-tickets-910465897007",
+                "price": 0,
+                "@type": "Offer",
+                "availability": "InStock"
+            }
+        ],
+        "Pricing": []
+    },
+    {
+        "Event Name": "Founder's Conclave Startup Mixer Investor and D2C",
+        "Start Date": "2024-06-22T17:00:00+05:30",
+        "End Date": "2024-06-22T19:00:00+05:30",
+        "Location": "CoKarma - Coworking Space",
+        "Address": "CoKarma - Coworking Space, Hyderabad, TS 500081",
+        "City": "Hyderabad",
+        "Region": "TS",
+        "Country": "IN",
+        "Postal Code": "500081",
+        "Description": "Founder's Conclave D2C and Investment Meetup. Whether you're looking for collaboration opportunities, seeking investment, or simply want to",
+        "Event URL": "https://www.eventbrite.com/e/founders-conclave-startup-mixer-investor-and-d2c-tickets-924950771657",
+        "Organizer": "XcellUp",
+        "Offers": [
+            {
+                "availabilityEnds": "2024-07-23T14:30:00Z",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/founders-conclave-startup-mixer-investor-and-d2c-tickets-924950771657",
+                "lowPrice": 7.18,
+                "highPrice": 7.18,
+                "@type": "AggregateOffer",
+                "availabilityStarts": "2024-06-22T11:30:00Z",
+                "validFrom": "2024-06-22T11:30:00Z",
+                "availability": "InStock"
+            },
+            {
+                "name": "Founder's Conclave D2C and Investment Meetup",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/founders-conclave-startup-mixer-investor-and-d2c-tickets-924950771657",
+                "price": 7.18,
+                "@type": "Offer",
+                "availability": "InStock"
+            }
+        ],
+        "Pricing": [
+            {
+                "name": "Founder's Conclave D2C and Investment Meetup",
+                "price": 7.18,
+                "currency": "USD"
+            }
+        ]
+    },
+    {
+        "Event Name": "Eco-Consciousness and Wellness Expo",
+        "Start Date": "2024-07-27T12:00:00+05:30",
+        "End Date": "2024-07-27T18:00:00+05:30",
+        "Location": "The Bombay Presidency Radio Club Limited",
+        "Address": "157 Arthur Bunder Road, Mumbai, MH 400001",
+        "City": "Mumbai",
+        "Region": "MH",
+        "Country": "IN",
+        "Postal Code": "400001",
+        "Description": "Discover eco-friendly practices and sustainable initiatives from leading adventure companies, brands, travel agencies, and boutique hotels.",
+        "Event URL": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+        "Organizer": "Dharte",
+        "Offers": [
+            {
+                "availabilityEnds": "2024-07-27T11:30:00Z",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "lowPrice": 0.0,
+                "highPrice": 109.05,
+                "@type": "AggregateOffer",
+                "availabilityStarts": "2023-10-16T12:30:00Z",
+                "validFrom": "2023-10-16T12:30:00Z",
+                "availability": "InStock"
+            },
+            {
+                "name": "Wellness Consultant + Program",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 16.96,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Wellness Seeker",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 0,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Service Based Exhibitors",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 72.93,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Product Based Exhibitors",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 109.05,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Press/Influencer",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 0,
+                "@type": "Offer",
+                "availability": "InStock"
+            },
+            {
+                "name": "Speaker/Mentor",
+                "priceCurrency": "GBP",
+                "url": "https://www.eventbrite.co.uk/e/eco-consciousness-and-wellness-expo-tickets-878457408757",
+                "price": 0,
+                "@type": "Offer",
+                "availability": "InStock"
+            }
+        ],
+        "Pricing": [
+            {
+                "name": "Wellness Consultant + Program",
+                "price": 16.96,
+                "currency": "GBP"
+            },
+            {
+                "name": "Service Based Exhibitors",
+                "price": 72.93,
+                "currency": "GBP"
+            },
+            {
+                "name": "Product Based Exhibitors",
+                "price": 109.05,
+                "currency": "GBP"
+            }
+        ]
+    },
+    {
+        "Event Name": "India Health & Wellness Expo 2024",
+        "Start Date": "2024-11-16T10:00:00+05:30",
+        "End Date": "2024-11-17T19:00:00+05:30",
+        "Location": "Bombay Exhibition Centre",
+        "Address": "Nesco Goregaon, Mumbai, MH 400063",
+        "City": "Mumbai",
+        "Region": "MH",
+        "Country": "IN",
+        "Postal Code": "400063",
+        "Description": "India International Trade Fair on Health, Wellness, Beauty, Fitness and much much more",
+        "Event URL": "https://www.eventbrite.com/e/india-health-wellness-expo-2024-tickets-888133440027",
+        "Organizer": "Introductions Trade Shows Pvt Ltd",
+        "Offers": [
+            {
+                "availabilityEnds": "2024-11-17T11:30:00Z",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/india-health-wellness-expo-2024-tickets-888133440027",
+                "lowPrice": 2.91,
+                "highPrice": 2.91,
+                "@type": "AggregateOffer",
+                "availabilityStarts": "2024-03-01T18:00:00Z",
+                "validFrom": "2024-03-01T18:00:00Z",
+                "availability": "InStock"
+            },
+            {
+                "name": "General Admission",
+                "priceCurrency": "USD",
+                "url": "https://www.eventbrite.com/e/india-health-wellness-expo-2024-tickets-888133440027",
+                "price": 2.91,
+                "@type": "Offer",
+                "availability": "InStock"
+            }
+        ],
+        "Pricing": [
+            {
+                "name": "General Admission",
+                "price": 2.91,
+                "currency": "USD"
+            }
+        ]
+    }
+]
