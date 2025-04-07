@@ -25,9 +25,8 @@ This Python script scrapes event data from specified Eventbrite URLs and extract
 1. Update the `event_urls` list in the `main` function with the Eventbrite URLs you want to scrape.
 2. Run the script:
    ```bash
-   python script_name.py
+   python main.py
    ```
-   Replace `script_name.py` with the name of your script file.
 
 3. The script will output a JSON file named `b2b_events.json` containing the collected event data.
 
